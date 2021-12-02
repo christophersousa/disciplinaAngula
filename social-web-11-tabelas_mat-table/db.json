@@ -1,0 +1,53 @@
+{
+  "usuarios": [
+    {
+      "nome": "Wagner",
+      "cpf": "36475839281",
+      "idade": "45",
+      "id": 2
+    },
+    {
+      "nome": "cris",
+      "cpf": "71037256409",
+      "telefone": "8388349532",
+      "idade": "21",
+      "id": 3
+    },
+    {
+      "nome": "mile",
+      "cpf": "85642189603",
+      "telefone": "08344557271",
+      "idade": "18",
+      "id": 4
+    },
+    {
+      "nome": "rick",
+      "cpf": "94582143780",
+      "telefone": "88536981",
+      "idade": "22",
+      "id": 5
+    },
+    {
+      "nome": "rose",
+      "cpf": "71647123456",
+      "telefone": "885460",
+      "idade": "45",
+      "id": 6
+    },
+    {
+      "nome": "caio",
+      "cpf": "78452041680'",
+      "telefone": "839885369",
+      "idade": "82",
+      "id": 7
+    },
+    {
+      "nome": "bia",
+      "cpf": "10398745607",
+      "telefone": "083884571986",
+      "idade": "16",
+      "id": 8
+    }
+  ],
+  "mensagens": []
+}
